@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a057772004cb27043a99602cc5b011a4
+timeCreated: 1506569537
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _gauss: {fileID: 2800000, guid: 56631e8f5c87c4c4c85ff3c24ef8fe3d, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
